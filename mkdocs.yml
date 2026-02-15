@@ -11,6 +11,8 @@ theme:
   custom_dir: cinder
   colorscheme: github
   highlightjs: true
+  disable_nav_previous_next: true
+
 
 nav:
   - Home: index.md
