@@ -2,7 +2,7 @@ site_name: ICBO
 site_url: https://github.com/ICBO-conference/icbo2025
 site_author: International Conference on Biomedical Ontology
 site_description: "International Conference on Biomedical Ontology ICBO"
-repo_url: https://github.com/ICBO-conference/icbo2025
+#repo_url: https://github.com/ICBO-conference/icbo2025
 #edit_uri: edit/main/docs/
 copyright: "Cinder template is licensed under the <a href='https://github.com/erfelipe2/icbotest/blob/master/LICENSE.md'>MIT license</a>"
 
