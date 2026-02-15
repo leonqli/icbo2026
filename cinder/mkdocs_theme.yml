@@ -8,6 +8,6 @@ search_index_only: false
 
 shortcuts:
     help: 191    # ?
-    next: 78     # n
-    previous: 80 # p
+    #next: 78     # n
+    #previous: 80 # p
     search: 83   # s
